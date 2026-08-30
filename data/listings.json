@@ -139,5 +139,38 @@
         "checked_at": "2026-08-29"
       }
     ]
+  },
+  {
+    "slug": "fluxx-grantseeker",
+    "name": "Fluxx Grantseeker",
+    "summary": "Grant tracking software for organizations managing multiple active grants across teams.",
+    "official_url": "https://www.fluxx.io/products/grantseeker-fluxx-grants-management-software",
+    "checked_at": "2026-08-30",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Centralizing active-grant deadlines, budgets, reporting requirements, documents, and team responsibilities.",
+        "source_url": "https://www.fluxx.io/products/grantseeker-fluxx-grants-management-software",
+        "checked_at": "2026-08-30"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions Grantseeker for nonprofits, higher education institutions, and public-sector organizations managing 10–50 or more active grants.",
+        "source_url": "https://www.fluxx.io/products/grantseeker-fluxx-grants-management-software",
+        "checked_at": "2026-08-30"
+      },
+      {
+        "label": "Vendor-listed starting price",
+        "value": "Fluxx lists Grantseeker as starting at $6,000 per year and says pricing scales with annual grant volume.",
+        "source_url": "https://www.fluxx.io/demo",
+        "checked_at": "2026-08-30"
+      },
+      {
+        "label": "Vendor-reported implementation time",
+        "value": "Fluxx says most organizations can implement Grantseeker in approximately one to two weeks.",
+        "source_url": "https://www.fluxx.io/products/grantseeker-fluxx-grants-management-software",
+        "checked_at": "2026-08-30"
+      }
+    ]
   }
 ]

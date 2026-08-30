@@ -66,6 +66,18 @@
       "url": "https://candid.org/find-us",
       "title": "Candid partner-location access",
       "accessed": "2026-08-29"
+    },
+    {
+      "id": 12,
+      "url": "https://www.fluxx.io/products/grantseeker-fluxx-grants-management-software",
+      "title": "Fluxx Grantseeker product overview",
+      "accessed": "2026-08-30"
+    },
+    {
+      "id": 13,
+      "url": "https://www.fluxx.io/demo",
+      "title": "Fluxx product demo and pricing overview",
+      "accessed": "2026-08-30"
     }
   ]
 }
