@@ -1,6 +1,7 @@
 {
   "siteName": "GrantOps Directory",
   "siteUrl": "https://delicioushouse.github.io/grantops-directory",
+  "basePath": "/grantops-directory",
   "description": "Choose grant tools by the work you need to do.",
   "disclosure": "Listings are selected using the same evidence standard whether or not a provider compensates us. Compensation never determines inclusion or ranking. Sponsored links are labeled."
 }

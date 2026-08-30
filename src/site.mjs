@@ -29,7 +29,9 @@ export function validateListing(listing) {
   return listing
 }
 
-const layout = ({ title, description, siteName, body }) => `<!doctype html>
+const normalizedBasePath = config => (config.basePath || '').replace(/\/$/, '')
+
+const layout = ({ title, description, siteName, basePath = '', body }) => `<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -38,13 +40,13 @@ const layout = ({ title, description, siteName, body }) => `<!doctype html>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="${basePath}/styles.css">
   <title>${escapeHtml(title)} · ${escapeHtml(siteName)}</title>
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="/">${escapeHtml(siteName)}</a>
-    <nav aria-label="Primary"><a href="/#directory">Directory</a><a href="/#methodology">Methodology</a></nav>
+    <a class="brand" href="${basePath}/">${escapeHtml(siteName)}</a>
+    <nav aria-label="Primary"><a href="${basePath}/#directory">Directory</a><a href="${basePath}/#methodology">Methodology</a></nav>
   </header>
   <main>${body}</main>
   <footer><p>Independent, source-dated research. No paid rankings.</p></footer>
@@ -53,6 +55,7 @@ const layout = ({ title, description, siteName, body }) => `<!doctype html>
 
 export function renderListingPage(listing, config) {
   validateListing(listing)
+  const basePath = normalizedBasePath(config)
   const destination = listing.affiliate_url || listing.official_url
   const sponsored = Boolean(listing.affiliate_url)
   const facts = listing.facts.map(fact => `
@@ -64,9 +67,10 @@ export function renderListingPage(listing, config) {
     title: listing.name,
     description: listing.summary,
     siteName: config.siteName,
+    basePath,
     body: `
       <article class="detail-shell">
-        <a class="back-link" href="/">← All tools</a>
+        <a class="back-link" href="${basePath}/">← All tools</a>
         <div class="detail-hero">
           <span class="badge">Verified profile</span>
           <h1>${escapeHtml(listing.name)}</h1>
@@ -81,23 +85,25 @@ export function renderListingPage(listing, config) {
 
 export function renderHomePage(listings, config) {
   listings.forEach(validateListing)
+  const basePath = normalizedBasePath(config)
   const cards = listings.map(listing => `
     <article class="tool-card">
       <span class="eyebrow">Checked ${escapeHtml(listing.checked_at)}</span>
-      <h2><a href="/directory/${escapeHtml(listing.slug)}/">${escapeHtml(listing.name)}</a></h2>
+      <h2><a href="${basePath}/directory/${escapeHtml(listing.slug)}/">${escapeHtml(listing.name)}</a></h2>
       <p>${escapeHtml(listing.summary)}</p>
-      <a class="text-link" href="/directory/${escapeHtml(listing.slug)}/">View source profile →</a>
+      <a class="text-link" href="${basePath}/directory/${escapeHtml(listing.slug)}/">View source profile →</a>
     </article>`).join('')
   return layout({
     title: config.siteName,
     description: config.description,
     siteName: config.siteName,
+    basePath,
     body: `
       <section class="hero">
         <span class="badge">Evidence before rankings</span>
         <h1>${escapeHtml(config.description)}</h1>
         <p>Compare grant discovery, application, management, and reporting tools using dated primary sources—not copied reviews or paid placement.</p>
-        <a class="button" href="#directory">Browse verified tools</a>
+        <a class="button" href="${basePath}/#directory">Browse verified tools</a>
       </section>
       <section class="directory-section" id="directory">
         <div class="section-heading"><span class="eyebrow">The directory</span><h2>Start with the work you need to do.</h2></div>

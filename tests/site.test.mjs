@@ -61,6 +61,19 @@ test('renderHomePage includes editorial independence disclosure', () => {
   assert.match(html, /Example Service/)
 })
 
+test('renderHomePage prefixes project-site assets and links with basePath', () => {
+  const html = renderHomePage([listing], {
+    siteName: 'Buyer Directory',
+    siteUrl: 'https://directory.example/grantops-directory',
+    basePath: '/grantops-directory',
+    description: 'Evidence-first comparisons.',
+    disclosure: 'Compensation never determines inclusion or ranking.'
+  })
+  assert.match(html, /href="\/grantops-directory\/styles\.css"/)
+  assert.match(html, /href="\/grantops-directory\/directory\/example-service\/"/)
+  assert.match(html, /href="\/grantops-directory\/#directory"/)
+})
+
 test('buildSite writes index, listing, stylesheet, robots, and sitemap files', async () => {
   const outDir = join(tmpdir(), `mogul-site-${Date.now()}`)
   await mkdir(outDir, { recursive: true })
