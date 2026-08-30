@@ -5,6 +5,7 @@ Material content, monetization, and automation changes are recorded here.
 ## 2026-08-30
 
 - Added a source-dated Fluxx Grantseeker profile covering active-grant tracking, intended audiences, vendor-listed starting price, and vendor-reported implementation time. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+- Updated the GitHub Pages workflow to current Node.js 24-compatible major versions of the official GitHub actions after the prior versions generated Node.js 20 deprecation warnings.
 
 ## 2026-08-29
 
