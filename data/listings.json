@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "instrumentl",
+    "name": "Instrumentl",
+    "summary": "A grant prospecting and management platform for nonprofits and grant consultants.",
+    "official_url": "https://www.instrumentl.com/",
+    "checked_at": "2026-08-29",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Finding, tracking, and managing grant opportunities in one workflow.",
+        "source_url": "https://www.instrumentl.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Audience",
+        "value": "Nonprofits and grant consultants.",
+        "source_url": "https://www.instrumentl.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Trial",
+        "value": "The vendor advertises a 14-day free trial with no credit card required.",
+        "source_url": "https://www.instrumentl.com/",
+        "checked_at": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "slug": "grants-gov",
+    "name": "Grants.gov",
+    "summary": "The official U.S. federal portal for organizations seeking federal grant opportunities.",
+    "official_url": "https://www.grants.gov/",
+    "checked_at": "2026-08-29",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Finding and applying for federal grant opportunities.",
+        "source_url": "https://www.grants.gov/learn-grants/grants-101",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Grant lifecycle",
+        "value": "The portal describes pre-award, award, and post-award phases.",
+        "source_url": "https://www.grants.gov/learn-grants/grants-101",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Scope",
+        "value": "Federal grant programs; eligibility varies by opportunity.",
+        "source_url": "https://www.grants.gov/learn-grants/grant-eligibility",
+        "checked_at": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "slug": "grantstation",
+    "name": "GrantStation",
+    "summary": "A funder research database and learning platform for nonprofit grantseekers.",
+    "official_url": "https://grantstation.com/",
+    "checked_at": "2026-08-29",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Researching funders and building a grant strategy.",
+        "source_url": "https://grantstation.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Database claim",
+        "value": "The vendor says its U.S. Charitable database includes more than 15,000 researched profiles.",
+        "source_url": "https://grantstation.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Learning support",
+        "value": "The vendor offers training on grantseeking strategy and proposal development.",
+        "source_url": "https://grantstation.com/",
+        "checked_at": "2026-08-29"
+      }
+    ]
+  },
+  {
+    "slug": "granthub",
+    "name": "GrantHub",
+    "summary": "Grant management software designed for grantseekers, including nonprofits and grant consultants.",
+    "official_url": "https://www.granthub.com/",
+    "checked_at": "2026-08-29",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing proposals, funders, tasks, and deadlines.",
+        "source_url": "https://www.granthub.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Audience",
+        "value": "Nonprofit organizations, grant consultants, and other fundraising professionals.",
+        "source_url": "https://www.granthub.com/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Ownership disclosure",
+        "value": "GrantHub identifies itself as being powered by Foundant Technologies.",
+        "source_url": "https://www.granthub.com/",
+        "checked_at": "2026-08-29"
+      }
+    ]
+  }
+]

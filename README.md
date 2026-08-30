@@ -1,6 +1,6 @@
-# Mogul Directory Venture
+# GrantOps Directory
 
-A source-grounded, autonomous directory-site experiment operated by Sugar & Leather.
+An evidence-first directory of tools used to find, apply for, manage, and report on grants. Built as an autonomous Sugar & Leather commercial experiment.
 
 ## Objective
 
@@ -8,7 +8,15 @@ Build a useful niche directory that earns through disclosed affiliate and referr
 
 ## Current stage
 
-Niche selection and evidence review. Public launch is not yet authorized by credentials alone; the user has directly authorized execution, but all factual listings must be sourced and all commercial relationships must be disclosed.
+Initial site built with four source-dated profiles. Automated tests and a reproducible static build are in place. GitHub Pages is the zero-spend launch target; the first revenue application is Instrumentl's partner program after the public URL is live.
+
+## Commands
+
+```sh
+npm test
+npm run build
+npm run check
+```
 
 ## Operating rules
 
