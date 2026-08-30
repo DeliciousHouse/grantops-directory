@@ -106,5 +106,38 @@
         "checked_at": "2026-08-29"
       }
     ]
+  },
+  {
+    "slug": "candid-search",
+    "name": "Candid search",
+    "summary": "A funder and nonprofit research platform combining Candid's Foundation Directory and GuideStar data.",
+    "official_url": "https://candid.org/candid-search/",
+    "checked_at": "2026-08-29",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Researching funders, grant history, and nonprofit organizations.",
+        "source_url": "https://candid.org/candid-search/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Vendor-reported coverage",
+        "value": "Candid reports 304,000+ funder profiles and 29 million+ grants.",
+        "source_url": "https://candid.org/candid-search/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Standard starting price",
+        "value": "Candid lists Premium at $219 per month billed monthly or $2,199 billed annually; these are vendor-listed standard starting prices.",
+        "source_url": "https://candid.org/candid-search/",
+        "checked_at": "2026-08-29"
+      },
+      {
+        "label": "Free access option",
+        "value": "Candid says partner locations offer free access to Candid and nonprofit fundraising resources.",
+        "source_url": "https://candid.org/find-us",
+        "checked_at": "2026-08-29"
+      }
+    ]
   }
 ]
