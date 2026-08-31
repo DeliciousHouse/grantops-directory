@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-08-31
+
+- Added a source-dated OpenGrants profile covering grant discovery, application-pipeline workflow, vendor-listed Pro pricing, collaboration, portfolio analytics, and compliance tracking. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-08-30
 
 - Added a source-dated Fluxx Grantseeker profile covering active-grant tracking, intended audiences, vendor-listed starting price, and vendor-reported implementation time. The listing uses official non-affiliate URLs; no referral relationship is claimed.

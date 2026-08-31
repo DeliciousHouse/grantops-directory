@@ -172,5 +172,38 @@
         "checked_at": "2026-08-30"
       }
     ]
+  },
+  {
+    "slug": "opengrants",
+    "name": "OpenGrants",
+    "summary": "A grant prospecting and application-workflow platform for finding opportunities and managing a funding pipeline.",
+    "official_url": "https://opengrants.io/product/",
+    "checked_at": "2026-08-31",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Searching open grant opportunities, checking potential eligibility fit, and tracking selected opportunities through an application pipeline.",
+        "source_url": "https://opengrants.io/product/",
+        "checked_at": "2026-08-31"
+      },
+      {
+        "label": "Application workflow",
+        "value": "The vendor says users can save opportunities, assign owners, track stages and deadlines, and keep team notes on each opportunity.",
+        "source_url": "https://opengrants.io/product/",
+        "checked_at": "2026-08-31"
+      },
+      {
+        "label": "Vendor-listed Pro price",
+        "value": "OpenGrants lists Pro at $9 per month or $8 per month billed annually, following a 7-day free trial.",
+        "source_url": "https://opengrants.io/how-opengrants-pricing-works/",
+        "checked_at": "2026-08-31"
+      },
+      {
+        "label": "Pro plan operations features",
+        "value": "The vendor lists team collaboration for up to five users, portfolio analytics, and compliance tracking among the Pro plan features.",
+        "source_url": "https://opengrants.io/how-opengrants-pricing-works/",
+        "checked_at": "2026-08-31"
+      }
+    ]
   }
 ]
