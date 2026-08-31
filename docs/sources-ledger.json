@@ -78,6 +78,18 @@
       "url": "https://www.fluxx.io/demo",
       "title": "Fluxx product demo and pricing overview",
       "accessed": "2026-08-30"
+    },
+    {
+      "id": 14,
+      "url": "https://opengrants.io/product/",
+      "title": "OpenGrants platform overview",
+      "accessed": "2026-08-31"
+    },
+    {
+      "id": 15,
+      "url": "https://opengrants.io/how-opengrants-pricing-works/",
+      "title": "OpenGrants pricing overview",
+      "accessed": "2026-08-31"
     }
   ]
 }
