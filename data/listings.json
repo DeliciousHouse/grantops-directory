@@ -205,5 +205,50 @@
         "checked_at": "2026-08-31"
       }
     ]
+  },
+  {
+    "slug": "grantable",
+    "name": "Grantable",
+    "summary": "An AI-assisted platform for grant prospecting, proposal development, team workflow, and pipeline management.",
+    "official_url": "https://grantable.co/product",
+    "checked_at": "2026-09-01",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Finding potential funders, developing grant proposals, and managing grant work in one workspace.",
+        "source_url": "https://grantable.co/product",
+        "checked_at": "2026-09-01"
+      },
+      {
+        "label": "Prospecting method",
+        "value": "The vendor says its prospect-matching system uses a database built from 990 filings, public records, and targeted web research, and provides a rationale for each match.",
+        "source_url": "https://grantable.co/product",
+        "checked_at": "2026-09-01"
+      },
+      {
+        "label": "Application workflow",
+        "value": "The vendor lists RFP checklist extraction, source-informed drafting, a reusable content library, and inline writing suggestions.",
+        "source_url": "https://grantable.co/product",
+        "checked_at": "2026-09-01"
+      },
+      {
+        "label": "Team operations",
+        "value": "The vendor lists section assignments, roles and permissions, anchored review comments, information requests, deadlines, status tracking, and calendar views.",
+        "source_url": "https://grantable.co/product",
+        "checked_at": "2026-09-01"
+      },
+      {
+        "label": "Vendor-listed monthly prices",
+        "value": "Grantable lists a Free plan, Starter at $50 per month, and Pro at $150 per month; usage capacity varies by plan.",
+        "source_url": "https://grantable.co/pricing",
+        "checked_at": "2026-09-01"
+      },
+      {
+        "label": "Vendor-listed nonprofit discount",
+        "value": "Grantable advertises 50% off Starter and Pro for one year for qualifying 501(c)(3) organizations with annual operating budgets under $500,000, subject to verification.",
+        "source_url": "https://grantable.co/pricing",
+        "checked_at": "2026-09-01"
+      }
+    ]
   }
 ]

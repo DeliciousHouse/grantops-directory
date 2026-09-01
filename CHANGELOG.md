@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-01
+
+- Added a source-dated Grantable profile covering AI-assisted prospecting, proposal workflow, team operations, vendor-listed monthly pricing, and its qualifying-nonprofit discount. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-08-31
 
 - Added a source-dated OpenGrants profile covering grant discovery, application-pipeline workflow, vendor-listed Pro pricing, collaboration, portfolio analytics, and compliance tracking. The listing uses official non-affiliate URLs; no referral relationship is claimed.
