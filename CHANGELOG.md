@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-04
+
+- Added a source-dated Grant Holster profile covering consultant-oriented grant operations, deadline and record workflows, vendor-listed monthly pricing, trial availability, and plan capacity. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-01
 
 - Added a source-dated Grantable profile covering AI-assisted prospecting, proposal workflow, team operations, vendor-listed monthly pricing, and its qualifying-nonprofit discount. The listing uses official non-affiliate URLs; no referral relationship is claimed.

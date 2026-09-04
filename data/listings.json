@@ -250,5 +250,44 @@
         "checked_at": "2026-09-01"
       }
     ]
+  },
+  {
+    "slug": "grant-holster",
+    "name": "Grant Holster",
+    "summary": "Grant-operations software for organizations and consultants coordinating grant deadlines, records, documents, and collaborators.",
+    "official_url": "https://www.grantholster.com/",
+    "checked_at": "2026-09-04",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Keeping grant deadlines, collaborators, client and funder records, documents, and reports in one workflow.",
+        "source_url": "https://www.grantholster.com/pricing-overview",
+        "checked_at": "2026-09-04"
+      },
+      {
+        "label": "Consultant operations",
+        "value": "The vendor positions its client-based architecture for grant consultants and leaders managing work across clients or departments.",
+        "source_url": "https://www.grantholster.com/",
+        "checked_at": "2026-09-04"
+      },
+      {
+        "label": "Vendor-listed monthly prices",
+        "value": "Grant Holster lists Bronze at $29 per month, Silver at $69 per month, and Gold at $109 per month; plan limits and user allowances vary.",
+        "source_url": "https://www.grantholster.com/pricing-overview",
+        "checked_at": "2026-09-04"
+      },
+      {
+        "label": "Vendor-listed trial",
+        "value": "The vendor advertises a 30-day free trial for its Bronze, Silver, and Gold plans.",
+        "source_url": "https://www.grantholster.com/pricing-overview",
+        "checked_at": "2026-09-04"
+      },
+      {
+        "label": "Vendor-listed plan capacity",
+        "value": "Bronze includes one administrator, unlimited viewers, and limits of 25 projects and 25 funders; Gold includes one administrator, five editors, unlimited viewers, projects, funders, clients, contacts, and actions.",
+        "source_url": "https://www.grantholster.com/pricing-overview",
+        "checked_at": "2026-09-04"
+      }
+    ]
   }
 ]
