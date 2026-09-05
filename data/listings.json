@@ -289,5 +289,44 @@
         "checked_at": "2026-09-04"
       }
     ]
+  },
+  {
+    "slug": "submittable",
+    "name": "Submittable",
+    "summary": "Full-lifecycle grant management software for organizations running application, review, award, and reporting programs.",
+    "official_url": "https://www.submittable.com/solutions/grants",
+    "checked_at": "2026-09-05",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Launching grant programs, collecting applications, coordinating reviews, tracking funds, and reporting across the grant lifecycle.",
+        "source_url": "https://www.submittable.com/solutions/grants",
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions the platform for grantmakers across public and private sectors, including nonprofits, government grantmakers, foundations, and businesses running community-investment programs.",
+        "source_url": "https://www.submittable.com/solutions/grants",
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Workflow features",
+        "value": "The vendor lists a drag-and-drop form builder, custom review workflows, real-time collaboration, financial tracking, and reporting with integrated analytics.",
+        "source_url": "https://www.submittable.com/solutions/grants",
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Pricing process",
+        "value": "Submittable does not display dollar amounts on its pricing page; it directs buyers to book a meeting to select features and capacity for their organization.",
+        "source_url": "https://www.submittable.com/pricing",
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Vendor-stated security controls",
+        "value": "Submittable says it completes an annual third-party SOC 2 Type 2 audit and supports SAML single sign-on and multiple permission levels.",
+        "source_url": "https://www.submittable.com/security",
+        "checked_at": "2026-09-05"
+      }
+    ]
   }
 ]

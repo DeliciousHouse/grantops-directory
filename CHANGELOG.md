@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-05
+
+- Added a source-dated Submittable profile covering grantmaker application and review workflows, financial tracking, reporting, quote-based purchasing, and vendor-stated security controls. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-04
 
 - Added a source-dated Grant Holster profile covering consultant-oriented grant operations, deadline and record workflows, vendor-listed monthly pricing, trial availability, and plan capacity. The listing uses official non-affiliate URLs; no referral relationship is claimed.
