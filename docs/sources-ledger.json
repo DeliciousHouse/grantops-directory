@@ -114,6 +114,24 @@
       "url": "https://www.grantholster.com/pricing-overview",
       "title": "Grant Holster pricing overview",
       "accessed": "2026-09-04"
+    },
+    {
+      "id": 20,
+      "url": "https://www.submittable.com/solutions/grants",
+      "title": "Submittable grant management overview",
+      "accessed": "2026-09-05"
+    },
+    {
+      "id": 21,
+      "url": "https://www.submittable.com/pricing",
+      "title": "Submittable pricing overview",
+      "accessed": "2026-09-05"
+    },
+    {
+      "id": 22,
+      "url": "https://www.submittable.com/security",
+      "title": "Submittable security and compliance overview",
+      "accessed": "2026-09-05"
     }
   ]
 }
