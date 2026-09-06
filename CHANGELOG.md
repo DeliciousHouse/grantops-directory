@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-06
+
+- Added a source-dated Euna Grants profile covering full-lifecycle research, grantseeker and grantmaker workflows, public-sector compliance and reporting, vendor-reported opportunity coverage, and request-based pricing. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-05
 
 - Added a source-dated Submittable profile covering grantmaker application and review workflows, financial tracking, reporting, quote-based purchasing, and vendor-stated security controls. The listing uses official non-affiliate URLs; no referral relationship is claimed.

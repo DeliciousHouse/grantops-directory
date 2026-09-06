@@ -328,5 +328,50 @@
         "checked_at": "2026-09-05"
       }
     ]
+  },
+  {
+    "slug": "euna-grants",
+    "name": "Euna Grants",
+    "summary": "Full-lifecycle grant management software for public-sector and other organizations researching, seeking, making, and reporting on grants.",
+    "official_url": "https://eunasolutions.com/solutions/grants/",
+    "checked_at": "2026-09-06",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing grant work from opportunity discovery through closeout, including research, seeking, making, compliance, and reporting workflows.",
+        "source_url": "https://eunasolutions.com/solutions/grants/",
+        "checked_at": "2026-09-06"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions Euna Grants for public-sector agencies, nonprofits, educational institutions, and other organizations that manage grants, with workflows for both grant seekers and grant makers.",
+        "source_url": "https://eunasolutions.com/solutions/grants/",
+        "checked_at": "2026-09-06"
+      },
+      {
+        "label": "Vendor-reported research coverage",
+        "value": "Euna says its research tools cover more than 25,000 federal, state, municipal, local, and foundation funding opportunities.",
+        "source_url": "https://eunasolutions.com/solutions/grants/",
+        "checked_at": "2026-09-06"
+      },
+      {
+        "label": "Operations workflow",
+        "value": "The vendor lists requirement, deadline, progress, and spend-down tracking; automatic reminders; real-time dashboards and reports; and custom applications that route submissions for review and scoring.",
+        "source_url": "https://eunasolutions.com/solutions/grants/",
+        "checked_at": "2026-09-06"
+      },
+      {
+        "label": "Compliance and reporting",
+        "value": "Euna says the platform provides compliance guardrails, automated documentation, complete audit trails, milestone and payment tracking, and exportable reporting data.",
+        "source_url": "https://eunasolutions.com/solutions/grants/",
+        "checked_at": "2026-09-06"
+      },
+      {
+        "label": "Pricing process",
+        "value": "Euna asks buyers to submit a pricing request and says pricing reflects the organization's size, needs, and intended outcomes; the page displays no dollar amounts.",
+        "source_url": "https://eunasolutions.com/request-pricing",
+        "checked_at": "2026-09-06"
+      }
+    ]
   }
 ]
