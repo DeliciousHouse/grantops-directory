@@ -373,5 +373,50 @@
         "checked_at": "2026-09-06"
       }
     ]
+  },
+  {
+    "slug": "good-grants",
+    "name": "Good Grants",
+    "summary": "Grant management software for grantmakers running application, review, award, and post-award workflows.",
+    "official_url": "https://goodgrants.com/",
+    "checked_at": "2026-09-07",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing the grantmaking lifecycle across pre-award applications and review, awards, and post-award reporting and payment tracking.",
+        "source_url": "https://goodgrants.com/features/",
+        "checked_at": "2026-09-07"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists configurable application forms, eligibility screening, multiple review rounds, panel management, real-time results, and reviewer recusal or abstention controls.",
+        "source_url": "https://goodgrants.com/",
+        "checked_at": "2026-09-07"
+      },
+      {
+        "label": "Post-award operations",
+        "value": "The vendor lists a grants dashboard, programmatic and financial grantee reports, payment scheduling and notifications, and payment tracking.",
+        "source_url": "https://goodgrants.com/",
+        "checked_at": "2026-09-07"
+      },
+      {
+        "label": "Vendor-listed annual prices",
+        "value": "Good Grants lists Intro at $3,950 USD per year and Premium at $7,900 USD per year; Enterprise uses custom-quote pricing. Plan capabilities and limits vary.",
+        "source_url": "https://goodgrants.com/pricing/",
+        "checked_at": "2026-09-07"
+      },
+      {
+        "label": "Vendor-listed trial",
+        "value": "The vendor advertises a 14-day free trial.",
+        "source_url": "https://goodgrants.com/",
+        "checked_at": "2026-09-07"
+      },
+      {
+        "label": "Vendor-stated security controls",
+        "value": "Good Grants says it is independently audited for ISO/IEC 27001:2022 and SOC 2 Type II, encrypts data at rest and in transit, and supports configurable roles and multi-factor authentication.",
+        "source_url": "https://goodgrants.com/features/security/",
+        "checked_at": "2026-09-07"
+      }
+    ]
   }
 ]

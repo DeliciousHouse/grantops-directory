@@ -144,6 +144,30 @@
       "url": "https://eunasolutions.com/request-pricing",
       "title": "Euna Grants pricing-request page",
       "accessed": "2026-09-06"
+    },
+    {
+      "id": 25,
+      "url": "https://goodgrants.com/",
+      "title": "Good Grants product overview",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 26,
+      "url": "https://goodgrants.com/features/",
+      "title": "Good Grants feature overview",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 27,
+      "url": "https://goodgrants.com/pricing/",
+      "title": "Good Grants pricing",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 28,
+      "url": "https://goodgrants.com/features/security/",
+      "title": "Good Grants security overview",
+      "accessed": "2026-09-07"
     }
   ]
 }
