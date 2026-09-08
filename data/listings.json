@@ -418,5 +418,50 @@
         "checked_at": "2026-09-07"
       }
     ]
+  },
+  {
+    "slug": "foundant-glm",
+    "name": "Foundant Grant Lifecycle Manager",
+    "summary": "Full-lifecycle grant management software for foundations and other funders handling applications, review, awards, payments, follow-up, and reporting.",
+    "official_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+    "checked_at": "2026-09-08",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing a grantmaking cycle from application intake and review through decisions, payments, follow-up, outcomes, and reporting.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+        "checked_at": "2026-09-08"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions the platform for foundations and other grantmakers, including government, corporate, research, and education funders.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+        "checked_at": "2026-09-08"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists configurable application forms with branching logic, reviewer assignment, online scoring, anonymized applicant data, evaluator feedback, and conflict-of-interest flags.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+        "checked_at": "2026-09-08"
+      },
+      {
+        "label": "Post-award operations and reporting",
+        "value": "The vendor lists installment scheduling, payment tracking, grantee follow-ups, milestone and outcome tracking, real-time analytics, custom reports, and stakeholder-ready exports.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+        "checked_at": "2026-09-08"
+      },
+      {
+        "label": "Integrations and access controls",
+        "value": "Foundant lists integrations with QuickBooks Online, DocuSign, Candid, Workato, and CommunitySuite, plus single sign-on and role-based permissions.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/",
+        "checked_at": "2026-09-08"
+      },
+      {
+        "label": "Pricing process",
+        "value": "Foundant's dedicated pricing page asks buyers to submit organization details for pricing and displays no subscription price amounts.",
+        "source_url": "https://www.foundant.com/products/grant-management-software-for-foundations/pricing/",
+        "checked_at": "2026-09-08"
+      }
+    ]
   }
 ]

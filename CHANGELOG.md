@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-08
+
+- Added a source-dated Foundant Grant Lifecycle Manager profile covering grantmaker application and review workflows, post-award operations and reporting, integrations and access controls, and request-based pricing. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-07
 
 - Added a source-dated Good Grants profile covering grantmaker application and review workflows, post-award reporting and payment tracking, vendor-listed annual pricing and trial availability, and vendor-stated security controls. The listing uses official non-affiliate URLs; no referral relationship is claimed.
