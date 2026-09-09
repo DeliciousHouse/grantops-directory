@@ -463,5 +463,50 @@
         "checked_at": "2026-09-08"
       }
     ]
+  },
+  {
+    "slug": "blackbaud-grantmaking",
+    "name": "Blackbaud Grantmaking",
+    "summary": "Full-lifecycle grant management software for funding organizations managing applications, reviews, awards, payments, compliance, and reporting.",
+    "official_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+    "checked_at": "2026-09-09",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing grantmaking from online application intake and review through awards, payments, grantee follow-up, outcomes, and reporting.",
+        "source_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+        "checked_at": "2026-09-09"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists a grantee portal, customizable workflows, a central review portal for internal and external reviewers, feedback collection, and custom scoring rubrics.",
+        "source_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+        "checked_at": "2026-09-09"
+      },
+      {
+        "label": "Payment and reporting operations",
+        "value": "The vendor lists payment-schedule management, one-click budget reports, portfolio-level data access, configurable dashboards, and reports for staff, boards, and committees.",
+        "source_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+        "checked_at": "2026-09-09"
+      },
+      {
+        "label": "Compliance and access controls",
+        "value": "Blackbaud says the platform includes auditing capabilities for system modifications, user permissions for data access, and support for applicable GDPR and current U.S. data-privacy compliance.",
+        "source_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+        "checked_at": "2026-09-09"
+      },
+      {
+        "label": "Vendor-listed integrations",
+        "value": "Blackbaud lists built-in integrations with Candid for tax-status verification and CSI WatchDOG for watchlist checks, plus an integration connecting grant information to Raiser’s Edge NXT.",
+        "source_url": "https://www.blackbaud.com/products/blackbaud-grantmaking",
+        "checked_at": "2026-09-09"
+      },
+      {
+        "label": "Pricing process",
+        "value": "Blackbaud provides personalized quotes rather than public dollar amounts; it says pricing factors include organization size, number of users, selected solutions or modules, and desired support and services.",
+        "source_url": "https://www.blackbaud.com/pricing",
+        "checked_at": "2026-09-09"
+      }
+    ]
   }
 ]
