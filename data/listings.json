@@ -508,5 +508,50 @@
         "checked_at": "2026-09-09"
       }
     ]
+  },
+  {
+    "slug": "openwater",
+    "name": "OpenWater",
+    "summary": "Grant management software for grantmakers running application, review, funding, communication, and reporting workflows.",
+    "official_url": "https://openwater.com/grant-management-software/",
+    "checked_at": "2026-09-11",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing grant applications, reviewer workflows, funding records, applicant communications, and program reporting in one platform.",
+        "source_url": "https://openwater.com/grant-management-software/",
+        "checked_at": "2026-09-11"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions its grant software for administrators at foundations, government agencies, associations, and higher education institutions.",
+        "source_url": "https://openwater.com/grant-management-software/",
+        "checked_at": "2026-09-11"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists a no-code grant website builder, drag-and-drop forms with conditional logic, file collection, and multi-round review with assigned submissions and scoring.",
+        "source_url": "https://openwater.com/grant-management-software/",
+        "checked_at": "2026-09-11"
+      },
+      {
+        "label": "Program operations",
+        "value": "OpenWater lists deadline and decision emails, progress overviews, applicant and reviewer reminders, fund and disbursement tracking, and downloadable reports.",
+        "source_url": "https://openwater.com/grant-management-software/",
+        "checked_at": "2026-09-11"
+      },
+      {
+        "label": "Vendor-listed integrations",
+        "value": "The vendor says its Integrations Hub connects with systems including iMIS, Salesforce, and Higher Logic.",
+        "source_url": "https://openwater.com/grant-management-software/",
+        "checked_at": "2026-09-11"
+      },
+      {
+        "label": "Purchasing process",
+        "value": "OpenWater directs grant-software buyers to request a personalized demo; its grant product and demo pages display no subscription price amounts.",
+        "source_url": "https://openwater.com/demo",
+        "checked_at": "2026-09-11"
+      }
+    ]
   }
 ]
