@@ -553,5 +553,50 @@
         "checked_at": "2026-09-11"
       }
     ]
+  },
+  {
+    "slug": "smartsimple-cloud",
+    "name": "SmartSimple Cloud",
+    "summary": "Configurable grantmaking software for foundations managing applications, reviews, budgets, communications, and reporting.",
+    "official_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+    "checked_at": "2026-09-12",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing a foundation's grant process from application creation and submission review through budget tracking and reporting.",
+        "source_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+        "checked_at": "2026-09-12"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions SmartSimple Cloud for large grantmaking organizations that need enterprise-grade automation, configurability, integrations, support, and services.",
+        "source_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+        "checked_at": "2026-09-12"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists configurable applications, application and report data imports, and external-review collaboration with shared access to applications, notes, and evaluations.",
+        "source_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+        "checked_at": "2026-09-12"
+      },
+      {
+        "label": "Program operations",
+        "value": "SmartSimple lists configurable cross-department workflows, multi-year grant planning, centralized historical applicant data, and individual or bulk applicant correspondence.",
+        "source_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+        "checked_at": "2026-09-12"
+      },
+      {
+        "label": "Financial oversight and reporting",
+        "value": "The vendor lists real-time analytics, financial reports, and personalized dashboards for monitoring grant budgets and expenditures.",
+        "source_url": "https://www.smartsimple.com/solution/grants-management-tracking-software",
+        "checked_at": "2026-09-12"
+      },
+      {
+        "label": "Pricing process",
+        "value": "SmartSimple says pricing has a one-time implementation fee plus recurring subscription fees and asks buyers to request a tailored pricing proposal; the page displays no dollar amounts.",
+        "source_url": "https://www.smartsimple.com/pricing",
+        "checked_at": "2026-09-12"
+      }
+    ]
   }
 ]

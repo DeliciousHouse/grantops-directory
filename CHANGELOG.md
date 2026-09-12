@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-12
+
+- Added a source-dated SmartSimple Cloud profile covering enterprise grantmaker application and review workflows, multi-year program operations, financial oversight and reporting, and implementation-plus-subscription pricing. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-11
 
 - Added a source-dated OpenWater profile covering grantmaker application and review workflows, program communications, fund and disbursement tracking, reporting, integrations, and demo-based purchasing. The listing uses official non-affiliate URLs; no referral relationship is claimed.
