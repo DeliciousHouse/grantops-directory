@@ -598,5 +598,50 @@
         "checked_at": "2026-09-12"
       }
     ]
+  },
+  {
+    "slug": "optimy",
+    "name": "Optimy",
+    "summary": "Grant management software for funders running application, review, award, payment, monitoring, and impact-reporting workflows.",
+    "official_url": "https://www.optimy.com/solutions/by-use-case/grant-management",
+    "checked_at": "2026-09-13",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing a grantmaking cycle from application intake and eligibility screening through scoring, awards, budget tracking, monitoring, and impact reporting.",
+        "source_url": "https://www.optimy.com/solutions/by-use-case/grant-management",
+        "checked_at": "2026-09-13"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions Optimy for funders including corporate, public, and private foundations, universities, nonprofit organizations, and corporations running grant programs.",
+        "source_url": "https://www.optimy.com/solutions/by-use-case/grant-management",
+        "checked_at": "2026-09-13"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "The vendor lists branded multilingual forms, document uploads, eligibility rules, weighted scoring, reviewer routing, hidden scores during open review periods, participation logs, quorum tracking, and conflict-of-interest controls.",
+        "source_url": "https://www.optimy.com/solutions/by-use-case/grant-management",
+        "checked_at": "2026-09-13"
+      },
+      {
+        "label": "Award and post-award operations",
+        "value": "Optimy lists automated approval routing and reminders, agreement generation and in-platform signing, payment scheduling, budget tracking, grantee deliverables, reporting milestones, KPI tracking, and audit trails.",
+        "source_url": "https://www.optimy.com/solutions/by-use-case/grant-management",
+        "checked_at": "2026-09-13"
+      },
+      {
+        "label": "Vendor-listed starting price",
+        "value": "Optimy lists its Start tier from €650 per month; Smart and Professional use custom pricing. Separately priced service levels are also shown on the pricing page.",
+        "source_url": "https://www.optimy.com/contact/pricing",
+        "checked_at": "2026-09-13"
+      },
+      {
+        "label": "Vendor-stated security controls",
+        "value": "Optimy says it supports multi-factor authentication, customizable user roles and permissions, regular database backups, redundant media storage, and AWS hosting in North America and Europe.",
+        "source_url": "https://www.optimy.com/platform/security",
+        "checked_at": "2026-09-13"
+      }
+    ]
   }
 ]
