@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-14
+
+- Added a source-dated GivingData profile covering foundation-focused grantee relationships, applications and reviews, financial and compliance operations, reporting, quote-based subscription tiers, and Foundant ownership. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-13
 
 - Added a source-dated Optimy profile covering grantmaker application and review workflows, award and post-award operations, vendor-listed starting pricing, and vendor-stated security controls. The listing uses official non-affiliate URLs; no referral relationship is claimed.

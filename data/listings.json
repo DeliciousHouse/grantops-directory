@@ -643,5 +643,56 @@
         "checked_at": "2026-09-13"
       }
     ]
+  },
+  {
+    "slug": "givingdata",
+    "name": "GivingData",
+    "summary": "Grant management software for foundations coordinating grantee relationships, applications, reviews, payments, compliance, and reporting.",
+    "official_url": "https://www.givingdata.com/product",
+    "checked_at": "2026-09-14",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing a foundation's grant lifecycle, including requests, grants, payments, grantee relationships, tasks, documents, search, and reporting.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Audience",
+        "value": "The vendor positions GivingData as a grants management system for foundations, with tiered plans for lean foundations through organizations with advanced processes and integration requirements.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Grantee relationship workflow",
+        "value": "The vendor lists real-time grantee collaboration, interaction and email tracking, and a consolidated view of each grantee's history with the foundation.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Application and review workflow",
+        "value": "GivingData lists application building, in-form commenting, application and report data imports, external review, and branching logic in intake forms; availability varies by plan.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Financial, compliance, and reporting operations",
+        "value": "The vendor lists payment and budget dashboards, tax-status verification, search and reporting, and optional capabilities such as OFAC compliance, portfolio management, e-signature, and monitoring, evaluation, and learning.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Pricing process",
+        "value": "GivingData presents Go, Pro, and Enterprise subscription tiers and asks buyers to request a quote; the product page displays no dollar amounts and notes that plan details are subject to change.",
+        "source_url": "https://www.givingdata.com/product",
+        "checked_at": "2026-09-14"
+      },
+      {
+        "label": "Ownership disclosure",
+        "value": "GivingData states that it is part of Foundant's family of products.",
+        "source_url": "https://www.givingdata.com/",
+        "checked_at": "2026-09-14"
+      }
+    ]
   }
 ]
