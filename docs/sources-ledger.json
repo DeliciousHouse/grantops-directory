@@ -240,6 +240,30 @@
       "url": "https://www.optimy.com/platform/security",
       "title": "Optimy security and compliance overview",
       "accessed": "2026-09-13"
+    },
+    {
+      "id": 41,
+      "url": "https://www.givingdata.com/",
+      "title": "GivingData official site and product-family disclosure",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": 42,
+      "url": "https://www.givingdata.com/product",
+      "title": "GivingData product and subscription tiers",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": 43,
+      "url": "https://apply.surveymonkey.com/solutions/grants/",
+      "title": "SurveyMonkey Apply grant management overview",
+      "accessed": "2026-09-15"
+    },
+    {
+      "id": 44,
+      "url": "https://apply.surveymonkey.com/pricing-plans/",
+      "title": "SurveyMonkey Apply plans and pricing",
+      "accessed": "2026-09-15"
     }
   ]
 }

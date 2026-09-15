@@ -694,5 +694,50 @@
         "checked_at": "2026-09-14"
       }
     ]
+  },
+  {
+    "slug": "surveymonkey-apply",
+    "name": "SurveyMonkey Apply",
+    "summary": "Application and grant management software for organizations running intake, review, award, compliance, and reporting workflows.",
+    "official_url": "https://apply.surveymonkey.com/solutions/grants/",
+    "checked_at": "2026-09-15",
+    "facts": [
+      {
+        "label": "Primary use",
+        "value": "Managing a grant program from application collection and review through award administration, post-award activity, funding tracking, and reporting.",
+        "source_url": "https://apply.surveymonkey.com/solutions/grants/",
+        "checked_at": "2026-09-15"
+      },
+      {
+        "label": "Applicant workflow",
+        "value": "The vendor lists branded applicant portals, configurable forms with more than 20 question types, skip logic, file uploads, and real-time collaboration among applicants.",
+        "source_url": "https://apply.surveymonkey.com/solutions/grants/",
+        "checked_at": "2026-09-15"
+      },
+      {
+        "label": "Administration and review workflow",
+        "value": "SurveyMonkey Apply lists automated application screening, reminder emails, and reviewer assignments, along with reviewer portals, configurable evaluation forms, rankings, and side-by-side application and evaluation views.",
+        "source_url": "https://apply.surveymonkey.com/solutions/grants/",
+        "checked_at": "2026-09-15"
+      },
+      {
+        "label": "Award, compliance, and access operations",
+        "value": "The vendor lists funding-source and allocation tracking, award notifications and acceptance, receipt uploads, role-based permissions, and audit trails of user actions.",
+        "source_url": "https://apply.surveymonkey.com/solutions/grants/",
+        "checked_at": "2026-09-15"
+      },
+      {
+        "label": "Reporting",
+        "value": "The vendor lists real-time dashboards, a drag-and-drop report builder, and exports to Excel, CSV, and other formats.",
+        "source_url": "https://apply.surveymonkey.com/solutions/grants/",
+        "checked_at": "2026-09-15"
+      },
+      {
+        "label": "Pricing and plan capacity",
+        "value": "SurveyMonkey Apply displays Pro, Enterprise, and Enterprise Plus plans but directs buyers to contact the company for annual pricing. The vendor lists applicant and program limits that vary by plan, while all three plans include unlimited reviewers and administrators.",
+        "source_url": "https://apply.surveymonkey.com/pricing-plans/",
+        "checked_at": "2026-09-15"
+      }
+    ]
   }
 ]

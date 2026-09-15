@@ -2,6 +2,10 @@
 
 Material content, monetization, and automation changes are recorded here.
 
+## 2026-09-15
+
+- Added a source-dated SurveyMonkey Apply profile covering applicant intake and collaboration, grant review automation, award and compliance operations, reporting, and quote-based plan capacity. The listing uses official non-affiliate URLs; no referral relationship is claimed.
+
 ## 2026-09-14
 
 - Added a source-dated GivingData profile covering foundation-focused grantee relationships, applications and reviews, financial and compliance operations, reporting, quote-based subscription tiers, and Foundant ownership. The listing uses official non-affiliate URLs; no referral relationship is claimed.
